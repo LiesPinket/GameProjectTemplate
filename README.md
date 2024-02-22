@@ -10,9 +10,9 @@
     Short description of the game.
     <br />
     <strong>Original game : </strong>
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>General info »</strong></a>
+    <a href="https://www.google.be/"><strong>General info »</strong></a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues"><strong>Youtube video »<strong></a>
+    <a href="https://www.google.be/"><strong>Youtube video »<strong></a>
     <br />
     <br />
   </p>
@@ -34,8 +34,8 @@
       <a href="#getting-started">Getting Started</a>
     </li>
     <li><a href="#how-to-play">How To Play</a></li>
-    <li><a href="#checklist">Checklist</a></li>
     <li><a href="#class-structure">Class structure</a></li>
+    <li><a href="#checklist">Checklist</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -107,6 +107,20 @@ Additional screenshots and demos work well in this space.
 
 
 
+<!-- CLASS STRUCTURE -->
+## Class structure 
+
+### Object composition 
+If you applied object composition (optional); explain where and how.
+
+### Inheritance 
+Explain where you applied inheritance (mandatory).
+
+### ..
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- CHECKLIST -->
 ## Checklist
 
@@ -126,19 +140,6 @@ Additional screenshots and demos work well in this space.
 - [ ] week 10 topics applied (optional)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- CLASS STRUCTURE -->
-## Class structure 
-
-### Object composition 
-Explain where you applied object composition if you applied this.
-
-### Inheritance 
-Explain where you applied inheritance.
-
-### ..
-
 
 <!-- CONTACT -->
 ## Contact
