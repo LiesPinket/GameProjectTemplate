@@ -4,7 +4,7 @@
 <br />
 <div align="center">
 
-  <h2 align="center">NAME OF CHOSEN GAME</h2>
+  <h1 align="center">NAME OF CHOSEN GAME</h1>
 
   <p align="center">
     Short description of the game.
